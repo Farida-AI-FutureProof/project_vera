@@ -1,0 +1,46 @@
+[
+  {
+    "content": "Order ID 1001: Product A, quantity 50, shipped on 2024-01-10 via Route 1, arrived on 2024-01-12 with 3 hours delay, non-hazardous.",
+    "metadata": {
+      "document_id": "LOG1001",
+      "source": "logistics",
+      "access_level": "public",
+      "department": "Logistics",
+      "domain": "Supply Chain",
+      "date": "2024-01-12"
+    }
+  },
+  {
+    "content": "Order ID 1002: Product B, quantity 100, shipped on 2024-01-15 via Route 2, arrived on 2024-01-20 with 24 hours delay, hazardous shipment.",
+    "metadata": {
+      "document_id": "LOG1002",
+      "source": "logistics",
+      "access_level": "internal",
+      "department": "Logistics",
+      "domain": "Supply Chain",
+      "date": "2024-01-20"
+    }
+  },
+  {
+    "content": "Aviation incident NTSB2 occurred on 2024-02-15 in San Francisco, CA. The aircraft was a Boeing 747, with 2 fatalities and 0 minor injuries. Probable cause: Engine failure due to bird strike.",
+    "metadata": {
+      "document_id": "AVN20240215",
+      "source": "aviation",
+      "access_level": "public",
+      "department": "Aviation",
+      "domain": "Aviation",
+      "date": "2024-02-15"
+    }
+  },
+  {
+    "content": "FDA recall FDA3 dated 2024-03-10: Product C recalled due to contamination. Recall class II with medium severity.",
+    "metadata": {
+      "document_id": "FDA20240310",
+      "source": "fda",
+      "access_level": "public",
+      "department": "Regulatory",
+      "domain": "FDA",
+      "date": "2024-03-10"
+    }
+  }
+]
