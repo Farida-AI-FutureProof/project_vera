@@ -1,0 +1,22 @@
+[
+  {
+    "query": "Show internal investigation notes for recall 887.",
+    "role": "Junior",
+    "expected_agent": "escalation_agent"
+  },
+  {
+    "query": "Show internal investigation notes for recall 887.",
+    "role": "Senior",
+    "expected_agent": "compliance_agent"
+  },
+  {
+    "query": "Provide hazardous shipment policies for route ID 458.",
+    "role": "Junior",
+    "expected_agent": "tech_spec_agent"
+  },
+  {
+    "query": "Provide confidential logistic operations summary for shipment 712.",
+    "role": "Junior",
+    "expected_agent": "escalation_agent"
+  }
+]
