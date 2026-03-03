@@ -1,0 +1,18 @@
+[
+  {
+    "query": "What was the primary cause of the 2010 runway accident?",
+    "expected_agent": "tech_spec_agent"
+  },
+  {
+    "query": "List all Class I recalls in 2019.",
+    "expected_agent": "compliance_agent"
+  },
+  {
+    "query": "Is Shipment ID 458 compliant with SOP?",
+    "expected_agent": "discrepancy_agent"
+  },
+  {
+    "query": "Provide internal investigation notes for recall 887.",
+    "expected_agent": "escalation_agent"
+  }
+]
