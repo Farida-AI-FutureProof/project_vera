@@ -1,0 +1,46 @@
+[
+  {
+    "text": "Order 1001: 50 laptops shipped on 2025-01-01 via route A1 with arrival on 2025-01-05. Delay: 0 hours. Product not hazardous.",
+    "metadata": {
+      "document_id": "LOG-1001",
+      "source": "logistics",
+      "access_level": "public",
+      "department": "Supply Chain",
+      "domain": "logistics",
+      "date": "2025-01-01"
+    }
+  },
+  {
+    "text": "Order 1004: 80 headphones shipped on 2025-01-04 via route B2 with arrival on 2025-01-08. Delay: 1 hour. Product not hazardous.",
+    "metadata": {
+      "document_id": "LOG-1004",
+      "source": "logistics",
+      "access_level": "internal",
+      "department": "Supply Chain",
+      "domain": "logistics",
+      "date": "2025-01-04"
+    }
+  },
+  {
+    "text": "On 2025-01-10, a Cessna 172 crashed in California. There was 1 fatality and 0 minor injuries. Probable cause: pilot error due to weather conditions.",
+    "metadata": {
+      "document_id": "AIR-NTSB1",
+      "source": "aviation",
+      "access_level": "public",
+      "department": "Aviation Safety",
+      "domain": "aviation",
+      "date": "2025-01-10"
+    }
+  },
+  {
+    "text": "Recall FDA1: On 2025-05-10, Drug A was recalled due to contamination. This was a Class I recall with high severity.",
+    "metadata": {
+      "document_id": "FDA-FDA1",
+      "source": "fda",
+      "access_level": "public",
+      "department": "Compliance",
+      "domain": "fda",
+      "date": "2025-05-10"
+    }
+  }
+]
