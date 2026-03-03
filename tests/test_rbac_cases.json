@@ -1,0 +1,12 @@
+[
+  {
+    "query": "Provide internal investigation notes for recall 887.",
+    "role": "junior",
+    "expected_result": "escalated"
+  },
+  {
+    "query": "Provide internal audit summary for logistic non-compliance.",
+    "role": "senior",
+    "expected_result": "retrieved"
+  }
+]
