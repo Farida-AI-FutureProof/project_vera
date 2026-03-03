@@ -1,0 +1,4 @@
+event_id,date,location,aircraft_type,injuries_fatal,injuries_minor,probable_cause
+NTSB1,2024-01-12,Florida,Cessna 172,1,2,Pilot error
+NTSB2,2024-02-18,Texas,Boeing 737,0,3,Engine failure
+NTSB3,2024-03-05,California,Piper PA-28,0,1,Bad weather
