@@ -1,6 +1,10 @@
 # 🔍 Project VERA — Virtual Engineering Review Agent
 
 > A Multi-Agent System for Technical Document Auditing & Compliance — Adaptable to Any Industry
+> 
+## Why This Project Matters
+This project demonstrates how AI agents can be used to automate technical review workflows, 
+reducing manual engineering effort and improving consistency in system validation.
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Stateful_Agents-green.svg)](https://github.com/langchain-ai/langgraph)
